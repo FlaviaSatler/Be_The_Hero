@@ -14,9 +14,6 @@
 Desenvolvida com Node.js, ReactJS e React Native.
 
 
-
-## 🚀 Tecnologias
-
 ## :rocket: Tecnologias
 
 <table>
