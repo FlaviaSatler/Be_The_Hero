@@ -10,23 +10,47 @@
 
 ## 🚀 Projeto
 
-O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar ongs e ongs com campanhas abertas.
+**Be The Hero** :  Aplicação com intuito de conectar pessoas interessadas em ajudar ONGS. 
+Desenvolvida com Node.js, ReactJS e React Native.
 
 
 
 ## 🚀 Tecnologias
 
-Stack utilizada:
+## :rocket: Tecnologias
 
-- [Node.js](https://nodejs.org/en/)
-- Criada API RESTful utilizando Express
-
-## 💻 Principais Dependências
-
-- [Cors](https://expressjs.com/en/resources/middleware/cors.html)  
-- [Express](https://nodejs.org/en/) 
-- [Knex](http://knexjs.org/) 
-- [Sqlite3](https://www.npmjs.com/package/sqlite3) 
+<table>
+  <thead>
+    <th>Back-end</th>
+    <th>Front-end</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Node.js</td>
+      <td>ReactJS</td>
+    </tr>
+    <tr>
+      <td>ExpressJs</td>
+      <td>Styled-Components</td>
+    </tr>
+    <tr>
+      <td>SqLite</td>
+      <td>Axios</td>
+    </tr>
+    <tr>
+      <td>Nodemon</td>
+      <td>React Hooks</td>
+    </tr>
+    <tr>
+      <td>Cors</td>
+      <td>Eslint</td>
+    </tr>
+    <tr>
+      <td>Knex</td>
+      <td>Prettier</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
